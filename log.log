@@ -1,0 +1,1705 @@
+******************  BEGIN ***************** 
+ success : 1492
+ Pass : ADO =  0124510810 payment = order = 2
+ Pass : ADO =  0124511235 payment = order = 2
+ Pass : ADO =  0124494754 payment = order = 2
+ Pass : ADO =  0124506747 payment = order = 2
+ Pass : ADO =  0124510809 payment = order = 2
+ Pass : ADO =  0124504261 payment = order = 2
+ Pass : ADO =  0124506454 payment = order = 2
+ Pass : ADO =  0124510085 payment = order = 2
+ Pass : ADO =  0124503459 payment = order = 2
+ process to ado : 0124513164  Index =  10
+ Pass : ADO =  0124513164 payment = order = 1
+ Pass : ADO =  0124517750 payment = order = 1
+ Pass : ADO =  0124518836 payment = order = 1
+ Pass : ADO =  0124515694 payment = order = 1
+ Pass : ADO =  0124501714 payment = order = 2
+ Pass : ADO =  0124505940 payment = order = 2
+ Pass : ADO =  0124510084 payment = order = 2
+ Pass : ADO =  0124518078 payment = order = 1
+ Pass : ADO =  0124518099 payment = order = 1
+ Pass : ADO =  0123487192 payment = order = 3
+ process to ado : 0123466399  Index =  20
+ Pass : ADO =  0123466399 payment = order = 5
+ Pass : ADO =  0123466654 payment = order = 5
+ Pass : ADO =  0123466311 payment = order = 5
+ Pass : ADO =  0123466641 payment = order = 5
+ Pass : ADO =  0123467204 payment = order = 5
+ Pass : ADO =  0124502936 payment = order = 2
+ Pass : ADO =  0123467289 payment = order = 5
+ Pass : ADO =  0123481462 payment = order = 4
+ Pass : ADO =  0123487068 payment = order = 3
+ Pass : ADO =  0123469776 payment = order = 4
+ process to ado : 0123469789  Index =  30
+ Pass : ADO =  0123469789 payment = order = 4
+ Pass : ADO =  0123470768 payment = order = 4
+ Pass : ADO =  0123461400 payment = order = 5
+ Pass : ADO =  0123489684 payment = order = 3
+ Pass : ADO =  0123466154 payment = order = 5
+ Pass : ADO =  0123466276 payment = order = 5
+ Pass : ADO =  0123466592 payment = order = 5
+ Pass : ADO =  0123466171 payment = order = 5
+ Pass : ADO =  0123473855 payment = order = 4
+ Pass : ADO =  0123466816 payment = order = 5
+ process to ado : 0123466666  Index =  40
+ Pass : ADO =  0123466666 payment = order = 5
+ Pass : ADO =  0123466170 payment = order = 5
+ Pass : ADO =  0123467292 payment = order = 5
+ Pass : ADO =  0123487857 payment = order = 3
+ Pass : ADO =  0123457074 payment = order = 5
+ Pass : ADO =  0123461848 payment = order = 5
+ Pass : ADO =  0123490634 payment = order = 3
+ Pass : ADO =  0123484821 payment = order = 3
+ Pass : ADO =  0124513176 payment = order = 1
+ Pass : ADO =  0124513823 payment = order = 1
+ process to ado : 0124513824  Index =  50
+ Pass : ADO =  0124513824 payment = order = 1
+ Pass : ADO =  0124518045 payment = order = 1
+ Pass : ADO =  0123482773 payment = order = 4
+ Pass : ADO =  0124512145 payment = order = 1
+ Pass : ADO =  0124498410 payment = order = 2
+ Pass : ADO =  0124515715 payment = order = 1
+ Pass : ADO =  0124494524 payment = order = 2
+ Pass : ADO =  0124503108 payment = order = 2
+ Pass : ADO =  0124503321 payment = order = 2
+ Pass : ADO =  0124515850 payment = order = 1
+ process to ado : 0124516011  Index =  60
+ Pass : ADO =  0124516011 payment = order = 1
+ Pass : ADO =  0124503296 payment = order = 2
+ Pass : ADO =  0124505335 payment = order = 1
+ Pass : ADO =  0124498546 payment = order = 2
+ Pass : ADO =  0124502484 payment = order = 1
+ Pass : ADO =  0124498627 payment = order = 2
+ Pass : ADO =  0124502579 payment = order = 2
+ Pass : ADO =  0124502600 payment = order = 2
+ Pass : ADO =  0124510082 payment = order = 1
+ Pass : ADO =  0124511308 payment = order = 1
+ process to ado : 0124514491  Index =  70
+ 
+ 
+ 
+ ******************  BEGIN ***************** 
+ success : 1425
+ Pass : ADO =  0124510082 payment = order = 1
+ Pass : ADO =  0124511308 payment = order = 1
+ Pass : ADO =  0124514491 payment = order = 1
+ Pass : ADO =  0124515575 payment = order = 1
+ Pass : ADO =  0124516099 payment = order = 1
+ Pass : ADO =  0124502551 payment = order = 2
+ Pass : ADO =  0124515717 payment = order = 1
+ Pass : ADO =  0123487066 payment = order = 3
+ Pass : ADO =  0123487082 payment = order = 3
+ process to ado : 0123487128  Index =  10
+ Pass : ADO =  0123487128 payment = order = 3
+ Pass : ADO =  0123487233 payment = order = 3
+ Pass : ADO =  0123466640 payment = order = 4
+ Pass : ADO =  0123469805 payment = order = 4
+ Pass : ADO =  0123466639 payment = order = 4
+ Pass : ADO =  0123474129 payment = order = 4
+ Pass : ADO =  0123474550 payment = order = 4
+ Pass : ADO =  0123474551 payment = order = 3
+ Pass : ADO =  0124504246 payment = order = 1
+ Pass : ADO =  0124514998 payment = order = 1
+ process to ado : 0124515523  Index =  20
+ Pass : ADO =  0124515523 payment = order = 1
+ 
+ 
+ 
+ 
+ 
+ 
+ ******************  BEGIN ***************** 
+ success : 1408
+ process to ado : 0124503768  Index =  0
+ Pass : ADO =  0124503768 payment = order = 2
+ Pass : ADO =  0124504246 payment = order = 1
+ Pass : ADO =  0124514998 payment = order = 1
+ Pass : ADO =  0124515523 payment = order = 1
+ Pass : ADO =  0123475939 payment = order = 4
+ Pass : ADO =  0123475961 payment = order = 4
+ Pass : ADO =  0123487237 payment = order = 3
+ Pass : ADO =  0123475204 payment = order = 4
+ Pass : ADO =  0123475497 payment = order = 4
+ Pass : ADO =  0123475499 payment = order = 4
+ process to ado : 0123475614  Index =  10
+ Pass : ADO =  0123475614 payment = order = 4
+ Pass : ADO =  0123475881 payment = order = 4
+ Pass : ADO =  0123467364 payment = order = 4
+ Pass : ADO =  0123468739 payment = order = 4
+ Pass : ADO =  0123481955 payment = order = 3
+ Pass : ADO =  0123484947 payment = order = 3
+ Pass : ADO =  0123471582 payment = order = 4
+ Pass : ADO =  0123486291 payment = order = 3
+ Pass : ADO =  0123471133 payment = order = 3
+ Pass : ADO =  0123487235 payment = order = 3
+ process to ado : 0123487240  Index =  20
+ Pass : ADO =  0123487240 payment = order = 3
+ Pass : ADO =  0123487818 payment = order = 3
+ Pass : ADO =  0123463246 payment = order = 4
+ Pass : ADO =  0123465697 payment = order = 4
+ Pass : ADO =  0123472306 payment = order = 4
+ Pass : ADO =  0123482932 payment = order = 3
+ Pass : ADO =  0123469674 payment = order = 4
+ Pass : ADO =  0123469592 payment = order = 4
+ Pass : ADO =  0123471548 payment = order = 4
+ Pass : ADO =  0123472174 payment = order = 4
+ process to ado : 0123469265  Index =  30
+ Pass : ADO =  0123469265 payment = order = 4
+ Pass : ADO =  0123469563 payment = order = 4
+ Pass : ADO =  0123472892 payment = order = 4
+ Pass : ADO =  0123473822 payment = order = 4
+ Pass : ADO =  0123473854 payment = order = 4
+ Pass : ADO =  0123474670 payment = order = 4
+ Pass : ADO =  0123474754 payment = order = 4
+ Pass : ADO =  0123475216 payment = order = 4
+ Pass : ADO =  0123475238 payment = order = 4
+ Pass : ADO =  0123475273 payment = order = 4
+ process to ado : 0123484958  Index =  40
+ Pass : ADO =  0123484958 payment = order = 3
+ Pass : ADO =  0123486635 payment = order = 3
+ Pass : ADO =  0123466814 payment = order = 4
+ Pass : ADO =  0123466312 payment = order = 4
+ Pass : ADO =  0123466288 payment = order = 4
+ Pass : ADO =  0123466593 payment = order = 4
+ Pass : ADO =  0123466712 payment = order = 4
+ Pass : ADO =  0123475671 payment = order = 4
+ Pass : ADO =  0123475738 payment = order = 4
+ Pass : ADO =  0123462193 payment = order = 4
+ process to ado : 0123473928  Index =  50
+ Pass : ADO =  0123473928 payment = order = 4
+ Pass : ADO =  0123474731 payment = order = 4
+ Pass : ADO =  0123487915 payment = order = 3
+ Pass : ADO =  0123489191 payment = order = 2
+ Pass : ADO =  0123481088 payment = order = 3
+ Pass : ADO =  0123481445 payment = order = 3
+ Pass : ADO =  0123481669 payment = order = 3
+ Pass : ADO =  0123475157 payment = order = 4
+ Pass : ADO =  0123475249 payment = order = 4
+ Pass : ADO =  0123475422 payment = order = 4
+ process to ado : 0123475423  Index =  60
+  Pass : ADO =  0123475423 payment = order = 4
+ Pass : ADO =  0123475434 payment = order = 4
+ Pass : ADO =  0123475500 payment = order = 4
+ Pass : ADO =  0123475673 payment = order = 4
+ Pass : ADO =  0123475789 payment = order = 4
+ Pass : ADO =  0123478867 payment = order = 3
+ Pass : ADO =  0123487871 payment = order = 3
+ Pass : ADO =  0124512123 payment = order = 1
+ Pass : ADO =  0123485936 payment = order = 2
+ Pass : ADO =  0123487127 payment = order = 3
+ process to ado : 0123457987  Index =  70
+ Pass : ADO =  0123457987 payment = order = 4
+ Pass : ADO =  0124516098 payment = order = 1
+ Pass : ADO =  0123460816 payment = order = 4
+ Pass : ADO =  0123486634 payment = order = 3
+ Pass : ADO =  0124513221 payment = order = 1
+ Pass : ADO =  0124513679 payment = order = 1
+ Pass : ADO =  0124513878 payment = order = 1
+ Pass : ADO =  0124511841 payment = order = 1
+ Pass : ADO =  0124512251 payment = order = 1
+ Pass : ADO =  0124513467 payment = order = 1
+ process to ado : 0124498494  Index =  80
+ Pass : ADO =  0124498494 payment = order = 2
+ Pass : ADO =  0124501737 payment = order = 2
+ Pass : ADO =  0124497606 payment = order = 2
+ Pass : ADO =  0124498821 payment = order = 2
+ Pass : ADO =  0124510871 payment = order = 1
+ Pass : ADO =  0124513198 payment = order = 1
+ Pass : ADO =  0124498525 payment = order = 2
+ Pass : ADO =  0124501970 payment = order = 2
+ Pass : ADO =  0124512995 payment = order = 1
+ Pass : ADO =  0123471681 payment = order = 4
+ process to ado : 0123471683  Index =  90
+ Pass : ADO =  0123471683 payment = order = 4
+ Pass : ADO =  0123472210 payment = order = 4
+ Pass : ADO =  0123485506 payment = order = 3
+ Pass : ADO =  0123486066 payment = order = 3
+ Pass : ADO =  0123467132 payment = order = 4
+ Pass : ADO =  0123466205 payment = order = 4
+ Pass : ADO =  0123471170 payment = order = 4
+ Pass : ADO =  0124501309 payment = order = 2
+ Pass : ADO =  0124505892 payment = order = 1
+ Pass : ADO =  0124510816 payment = order = 1
+ process to ado : 0123469250  Index =  100
+ 
+ 
+  Pass : ADO =  0123469250 payment = order = 4
+ Pass : ADO =  0123483046 payment = order = 3
+ Pass : ADO =  0123471252 payment = order = 4
+ Pass : ADO =  0123486272 payment = order = 3
+ Pass : ADO =  0123470993 payment = order = 4
+ Pass : ADO =  0123471476 payment = order = 4
+ Pass : ADO =  0123480409 payment = order = 3
+ Pass : ADO =  0123467388 payment = order = 4
+ Pass : ADO =  0123471581 payment = order = 4
+ Pass : ADO =  0123471593 payment = order = 4
+ process to ado : 0123471682  Index =  110
+ Pass : ADO =  0123471682 payment = order = 4
+ Pass : ADO =  0123472663 payment = order = 4
+ Pass : ADO =  0123472304 payment = order = 4
+ Pass : ADO =  0123469436 payment = order = 4
+ Pass : ADO =  0123473090 payment = order = 3
+ Pass : ADO =  0123484585 payment = order = 3
+ Pass : ADO =  0123486141 payment = order = 3
+ Pass : ADO =  0123472694 payment = order = 4
+ Pass : ADO =  0123472695 payment = order = 4
+ Pass : ADO =  0123472724 payment = order = 4
+ process to ado : 0123467294  Index =  120
+ Pass : ADO =  0123467294 payment = order = 4
+ Error  : ADO = 0123472840 payment Success != number Order  4 : 3 
+ Pass : ADO =  0123490480 payment = order = 2
+ Pass : ADO =  0123490483 payment = order = 2
+ Pass : ADO =  0124513210 payment = order = 1
+ Pass : ADO =  0123485645 payment = order = 3
+ Pass : ADO =  0124513678 payment = order = 1
+ Pass : ADO =  0124514038 payment = order = 1
+ Pass : ADO =  0123457015 payment = order = 4
+ Pass : ADO =  0123486067 payment = order = 3
+ process to ado : 0124511993  Index =  130
+ 
+ ******************  BEGIN ***************** 
+ success : 1279
+ process to ado : 0123486067  Index =  0
+ Pass : ADO =  0123486067 payment = order = 3
+ Pass : ADO =  0124511993 payment = order = 1
+ Pass : ADO =  0123466909 payment = order = 4
+ Pass : ADO =  0123463064 payment = order = 4
+ Pass : ADO =  0123481839 payment = order = 3
+ Pass : ADO =  0124512900 payment = order = 1
+ Pass : ADO =  0124508499 payment = order = 1
+ Pass : ADO =  0124510968 payment = order = 1
+ Pass : ADO =  0124501390 payment = order = 1
+ Pass : ADO =  0124490865 payment = order = 2
+ process to ado : 0124497869  Index =  10
+ Pass : ADO =  0124497869 payment = order = 1
+ Pass : ADO =  0123466310 payment = order = 4
+ Pass : ADO =  0123468532 payment = order = 3
+ Pass : ADO =  0124505964 payment = order = 1
+ Pass : ADO =  0124510087 payment = order = 1
+ Pass : ADO =  0124511391 payment = order = 1
+ Pass : ADO =  0123463235 payment = order = 4
+ Pass : ADO =  0123482771 payment = order = 3
+ Pass : ADO =  0123466642 payment = order = 4
+ Pass : ADO =  0123466597 payment = order = 4
+ process to ado : 0123467290  Index =  20
+ Pass : ADO =  0123467290 payment = order = 4
+ Pass : ADO =  0124498810 payment = order = 1
+ Pass : ADO =  0124502623 payment = order = 1
+ Pass : ADO =  0124497607 payment = order = 1
+ Pass : ADO =  0124502428 payment = order = 1
+ Pass : ADO =  0124503905 payment = order = 1
+ Pass : ADO =  0124502417 payment = order = 1
+ Pass : ADO =  0124498691 payment = order = 1
+ Pass : ADO =  0124502485 payment = order = 1
+ Pass : ADO =  0124502519 payment = order = 1
+ process to ado : 0124503164  Index =  30
+ Pass : ADO =  0124503164 payment = order = 1
+ Pass : ADO =  0124503795 payment = order = 1
+ Pass : ADO =  0124498808 payment = order = 1
+ Pass : ADO =  0124503105 payment = order = 1
+ Pass : ADO =  0123471704 payment = order = 2
+ Pass : ADO =  0123486088 payment = order = 2
+ Pass : ADO =  0123470035 payment = order = 3
+ Pass : ADO =  0123472923 payment = order = 3
+ Pass : ADO =  0123473856 payment = order = 3
+ Pass : ADO =  0123474582 payment = order = 3
+ process to ado : 0124502149  Index =  40
+ Pass : ADO =  0124502149 payment = order = 1
+ Pass : ADO =  0123475937 payment = order = 3
+ Pass : ADO =  0123474586 payment = order = 3
+ Pass : ADO =  0123475672 payment = order = 3
+ Pass : ADO =  0123475940 payment = order = 3
+ Pass : ADO =  0123467351 payment = order = 3
+ Pass : ADO =  0123481840 payment = order = 2
+ Pass : ADO =  0123487334 payment = order = 2
+ Pass : ADO =  0123487651 payment = order = 2
+ Pass : ADO =  0123489956 payment = order = 1
+ process to ado : 0123487335  Index =  50
+ Pass : ADO =  0123487335 payment = order = 2
+ Pass : ADO =  0123471646 payment = order = 3
+ Pass : ADO =  0123469251 payment = order = 3
+ Pass : ADO =  0123487914 payment = order = 2
+ Pass : ADO =  0123466396 payment = order = 3
+ Pass : ADO =  0123466595 payment = order = 3
+ Pass : ADO =  0123473018 payment = order = 3
+ Pass : ADO =  0123474618 payment = order = 3
+ Pass : ADO =  0123475602 payment = order = 3
+ Pass : ADO =  0123466920 payment = order = 3
+ process to ado : 0123466157  Index =  60
+ Pass : ADO =  0123466157 payment = order = 3
+ Pass : ADO =  0123487903 payment = order = 2
+ Pass : ADO =  0123472710 payment = order = 3
+ Pass : ADO =  0123475626 payment = order = 3
+ Pass : ADO =  0123475696 payment = order = 3
+ Pass : ADO =  0123475935 payment = order = 3
+ Pass : ADO =  0123475938 payment = order = 3
+ Pass : ADO =  0123458100 payment = order = 3
+ Pass : ADO =  0123481843 payment = order = 2
+ Pass : ADO =  0123481996 payment = order = 2
+ process to ado : 0123475378  Index =  70
+ Pass : ADO =  0123475378 payment = order = 3
+ Pass : ADO =  0123475455 payment = order = 3
+ Pass : ADO =  0123475615 payment = order = 3
+ Pass : ADO =  0123475830 payment = order = 3
+ Pass : ADO =  0123485583 payment = order = 2
+ Pass : ADO =  0123487740 payment = order = 2
+ Pass : ADO =  0123481604 payment = order = 2
+ Pass : ADO =  0123485937 payment = order = 2
+ Pass : ADO =  0123487063 payment = order = 2
+ Pass : ADO =  0124494703 payment = order = 1
+ process to ado : 0124497750  Index =  80
+ 
+  Pass : ADO =  0124497750 payment = order = 1
+ Pass : ADO =  0124500955 payment = order = 1
+ Pass : ADO =  0124501971 payment = order = 1
+ Pass : ADO =  0124501838 payment = order = 1
+ Pass : ADO =  0123485646 payment = order = 2
+ Pass : ADO =  0123486273 payment = order = 2
+ Pass : ADO =  0123469710 payment = order = 3
+ Pass : ADO =  0123470930 payment = order = 3
+ Pass : ADO =  0124501267 payment = order = 1
+ Pass : ADO =  0124501969 payment = order = 1
+ process to ado : 0123478883  Index =  90
+ Pass : ADO =  0123478883 payment = order = 2
+ Pass : ADO =  0123471251 payment = order = 3
+ Pass : ADO =  0123481637 payment = order = 2
+ Pass : ADO =  0123486274 payment = order = 2
+ Pass : ADO =  0123470791 payment = order = 3
+ Pass : ADO =  0123458193 payment = order = 3
+ Pass : ADO =  0123471027 payment = order = 3
+ Pass : ADO =  0123471549 payment = order = 3
+ Pass : ADO =  0123472664 payment = order = 3
+ Pass : ADO =  0123490360 payment = order = 1
+ process to ado : 0123466040  Index =  100
+ Pass : ADO =  0123466040 payment = order = 3
+ Pass : ADO =  0123466156 payment = order = 3
+ Pass : ADO =  0123466204 payment = order = 3
+ Pass : ADO =  0123472818 payment = order = 3
+ Pass : ADO =  0123468664 payment = order = 3
+ Pass : ADO =  0123473007 payment = order = 3
+ Pass : ADO =  0123484996 payment = order = 2
+ Pass : ADO =  0123485938 payment = order = 2
+ Pass : ADO =  0123485994 payment = order = 2
+ Pass : ADO =  0124494523 payment = order = 1
+ process to ado : 0124494525  Index =  110
+ Pass : ADO =  0124494525 payment = order = 1
+ Pass : ADO =  0124495946 payment = order = 1
+ Pass : ADO =  0124498629 payment = order = 1
+ Pass : ADO =  0124491679 payment = order = 1
+ Pass : ADO =  0124494522 payment = order = 1
+ Pass : ADO =  0123466644 payment = order = 3
+ Pass : ADO =  0123477759 payment = order = 2
+ Pass : ADO =  0123468414 payment = order = 3
+ Pass : ADO =  0123469986 payment = order = 3
+ Pass : ADO =  0123459953 payment = order = 3
+ process to ado : 0123467390  Index =  120
+ Pass : ADO =  0123467390 payment = order = 3
+ Pass : ADO =  0123465748 payment = order = 3
+ Pass : ADO =  0123471159 payment = order = 2
+ Pass : ADO =  0123483216 payment = order = 2
+ Pass : ADO =  0123467291 payment = order = 3
+ Pass : ADO =  0123466309 payment = order = 3
+ Pass : ADO =  0123468416 payment = order = 3
+ Pass : ADO =  0123484574 payment = order = 1
+ Pass : ADO =  0123483828 payment = order = 2
+ Pass : ADO =  0124490908 payment = order = 1
+ process to ado : 0123482439  Index =  130
+ Pass : ADO =  0123482439 payment = order = 2
+ Pass : ADO =  0123482601 payment = order = 2
+ Pass : ADO =  0123461754 payment = order = 3
+ Pass : ADO =  0123480099 payment = order = 2
+ Pass : ADO =  0123480430 payment = order = 2
+ Pass : ADO =  0123471668 payment = order = 2
+ Pass : ADO =  0123482635 payment = order = 2
+ Pass : ADO =  0123466901 payment = order = 3
+ Pass : ADO =  0123475603 payment = order = 2
+ Pass : ADO =  0123461377 payment = order = 3
+ process to ado : 0123461909  Index =  140
+ 
+  Pass : ADO =  0123461909 payment = order = 3
+ Pass : ADO =  0123466908 payment = order = 3
+ Pass : ADO =  0123466900 payment = order = 3
+ Pass : ADO =  0123477628 payment = order = 2
+ Pass : ADO =  0123481999 payment = order = 2
+ Pass : ADO =  0123485594 payment = order = 1
+ Pass : ADO =  0123466218 payment = order = 2
+ Pass : ADO =  0123466594 payment = order = 2
+ Pass : ADO =  0123466650 payment = order = 2
+ Pass : ADO =  0123487709 payment = order = 1
+ process to ado : 0123474617  Index =  150
+ Pass : ADO =  0123474617 payment = order = 2
+ Pass : ADO =  0123475882 payment = order = 2
+ Pass : ADO =  0123475893 payment = order = 2
+ Pass : ADO =  0123484807 payment = order = 1
+ Pass : ADO =  0123471158 payment = order = 2
+ Pass : ADO =  0123484745 payment = order = 1
+ Pass : ADO =  0123486276 payment = order = 1
+ Pass : ADO =  0123461755 payment = order = 2
+ Pass : ADO =  0123481201 payment = order = 1
+ Pass : ADO =  0123471669 payment = order = 2
+ process to ado : 0123469248  Index =  160
+ Pass : ADO =  0123469248 payment = order = 2
+ Pass : ADO =  0123466106 payment = order = 2
+ Pass : ADO =  0123471293 payment = order = 2
+ Pass : ADO =  0123470790 payment = order = 2
+ Pass : ADO =  0123473091 payment = order = 2
+ Pass : ADO =  0123475203 payment = order = 2
+ Pass : ADO =  0123485659 payment = order = 1
+ Pass : ADO =  0123487640 payment = order = 1
+ Pass : ADO =  0123467130 payment = order = 2
+ Pass : ADO =  0123466314 payment = order = 2
+ process to ado : 0123467295  Index =  170
+ Pass : ADO =  0123467295 payment = order = 2
+ Pass : ADO =  0123473950 payment = order = 2
+ Pass : ADO =  0123485511 payment = order = 1
+ Pass : ADO =  0123487812 payment = order = 1
+ Pass : ADO =  0123487902 payment = order = 1
+ Pass : ADO =  0123487171 payment = order = 1
+ Pass : ADO =  0123486375 payment = order = 1
+ Pass : ADO =  0123466618 payment = order = 2
+ Pass : ADO =  0123472509 payment = order = 1
+ Pass : ADO =  0123472542 payment = order = 2
+ process to ado : 0123484819  Index =  180
+ Pass : ADO =  0123484819 payment = order = 1
+ Pass : ADO =  0123485495 payment = order = 1
+ Pass : ADO =  0123461963 payment = order = 2
+ Pass : ADO =  0123482634 payment = order = 1
+ Pass : ADO =  0123472697 payment = order = 2
+ Pass : ADO =  0123471705 payment = order = 2
+ Pass : ADO =  0123472531 payment = order = 2
+ Pass : ADO =  0123485647 payment = order = 1
+ Pass : ADO =  0123472736 payment = order = 2
+ Pass : ADO =  0123468371 payment = order = 2
+ process to ado : 0123457017  Index =  190
+ 
+ ******************  BEGIN ***************** 
+ success : 1090
+ process to ado : 0123468371  Index =  0
+ Pass : ADO =  0123468371 payment = order = 2
+ Pass : ADO =  0123457017 payment = order = 2
+ Pass : ADO =  0123479101 payment = order = 1
+ Pass : ADO =  0123480100 payment = order = 1
+ Pass : ADO =  0123484805 payment = order = 1
+ Pass : ADO =  0123484960 payment = order = 1
+ Pass : ADO =  0123485990 payment = order = 1
+ Pass : ADO =  0123469328 payment = order = 2
+ *******  Error  : ADO = 0123364106 payment Success != number Order  9 : 2
+ Pass : ADO =  0123466313 payment = order = 2
+ process to ado : 0123466645  Index =  10
+ Pass : ADO =  0123466645 payment = order = 1
+ Pass : ADO =  0123468520 payment = order = 2
+ Pass : ADO =  0123484295 payment = order = 1
+ Pass : ADO =  0123468750 payment = order = 2
+ Pass : ADO =  0123468628 payment = order = 2
+ Pass : ADO =  0123467277 payment = order = 2
+ Pass : ADO =  0123467584 payment = order = 2
+ Pass : ADO =  0123480256 payment = order = 1
+ Pass : ADO =  0123484852 payment = order = 1
+ Pass : ADO =  0123484820 payment = order = 1
+ process to ado : 0123487236  Index =  20
+ *******  Error  : ADO = 0123487236 payment Success != number Order  2 : 1
+ Pass : ADO =  0123467288 payment = order = 2
+ Pass : ADO =  0123477643 payment = order = 1
+ Pass : ADO =  0123477642 payment = order = 1
+ Pass : ADO =  0123467339 payment = order = 2
+ *******  Error  : ADO = 0123484334 payment Success != number Order  2 : 1
+ Pass : ADO =  0123482708 payment = order = 1
+ Pass : ADO =  0123462445 payment = order = 2
+ Pass : ADO =  0123482772 payment = order = 1
+ Pass : ADO =  0123465988 payment = order = 2
+ process to ado : 0123467375  Index =  30
+ 
+ 
+ ******************  BEGIN ***************** 
+ success : 1060
+ process to ado : 0123467375  Index =  0
+ Pass : ADO =  0123467375 payment = order = 2
+ Pass : ADO =  0123466904 payment = order = 2
+ Pass : ADO =  0123466921 payment = order = 1
+ Pass : ADO =  0123477641 payment = order = 1
+ Pass : ADO =  0123481998 payment = order = 1
+ Pass : ADO =  0123475486 payment = order = 1
+ Pass : ADO =  0123482770 payment = order = 1
+ *******  Error  : ADO = 0123489087 payment Success != number Order  3 : 1
+ *******  Error  : ADO = 0123490645 payment Success != number Order  2 : 1
+ Pass : ADO =  0123457510 payment = order = 2
+ process to ado : 0123482492  Index =  10
+ Pass : ADO =  0123482492 payment = order = 1
+ Pass : ADO =  0123469709 payment = order = 1
+ Pass : ADO =  0123470022 payment = order = 1
+ Pass : ADO =  0123467143 payment = order = 1
+ Pass : ADO =  0123467165 payment = order = 1
+ Pass : ADO =  0123474036 payment = order = 1
+ Pass : ADO =  0123475936 payment = order = 1
+ Pass : ADO =  0123475260 payment = order = 1
+ Pass : ADO =  0123471465 payment = order = 1
+ Pass : ADO =  0123457170 payment = order = 1
+ process to ado : 0123472665  Index =  20
+ Pass : ADO =  0123472665 payment = order = 1
+ Pass : ADO =  0123459511 payment = order = 1
+ Pass : ADO =  0123472508 payment = order = 1
+ Pass : ADO =  0123465999 payment = order = 1
+ Pass : ADO =  0123472712 payment = order = 1
+ Pass : ADO =  0123468752 payment = order = 1
+ Pass : ADO =  0123475628 payment = order = 1
+ Pass : ADO =  0123475639 payment = order = 1
+ Pass : ADO =  0123475727 payment = order = 1
+ Pass : ADO =  0123475934 payment = order = 1
+ process to ado : 0123474557  Index =  30
+ Pass : ADO =  0123474557 payment = order = 1
+ Pass : ADO =  0123475055 payment = order = 1
+ Pass : ADO =  0123475136 payment = order = 1
+ Pass : ADO =  0123466943 payment = order = 1
+ Pass : ADO =  0123467131 payment = order = 1
+ Pass : ADO =  0123467350 payment = order = 1
+ Pass : ADO =  0123471112 payment = order = 1
+ Pass : ADO =  0123471145 payment = order = 1
+ Pass : ADO =  0123472399 payment = order = 1
+ Pass : ADO =  0123473005 payment = order = 1
+ process to ado : 0123462588  Index =  40
+ Pass : ADO =  0123462588 payment = order = 1
+ Pass : ADO =  0123466815 payment = order = 1
+ Pass : ADO =  0123472467 payment = order = 1
+ Pass : ADO =  0123466944 payment = order = 1
+ Pass : ADO =  0123472676 payment = order = 1
+ Pass : ADO =  0123472711 payment = order = 1
+ Pass : ADO =  0123472738 payment = order = 1
+ Pass : ADO =  0123458079 payment = order = 1
+ Pass : ADO =  0123459532 payment = order = 1
+ Pass : ADO =  0123469975 payment = order = 1
+ process to ado : 0123468462  Index =  50
+ Pass : ADO =  0123468462 payment = order = 1
+ Pass : ADO =  0123468718 payment = order = 1
+ Pass : ADO =  0123467352 payment = order = 1
+ Pass : ADO =  0123467265 payment = order = 1
+ Pass : ADO =  0123467442 payment = order = 1
+ Pass : ADO =  0123467389 payment = order = 1
+ Pass : ADO =  0123467376 payment = order = 1
+ Pass : ADO =  0123466777 payment = order = 1
+ Pass : ADO =  0123466906 payment = order = 1
+ Pass : ADO =  0123408667 payment = order = 3
+ process to ado : 0123409595  Index =  60
+ Pass : ADO =  0123409595 payment = order = 3
+ Pass : ADO =  0123409994 payment = order = 3
+ Pass : ADO =  0123410088 payment = order = 3
+ Pass : ADO =  0123409808 payment = order = 3
+ Pass : ADO =  0123410109 payment = order = 3
+ Pass : ADO =  0123312346 payment = order = 7
+ Pass : ADO =  0123382072 payment = order = 4
+ Pass : ADO =  0123312661 payment = order = 7
+ Pass : ADO =  0123313471 payment = order = 7
+ Pass : ADO =  0123313917 payment = order = 7
+ process to ado : 0123418974  Index =  70
+ Pass : ADO =  0123418974 payment = order = 2
+ Pass : ADO =  0123383297 payment = order = 4
+ Pass : ADO =  0123380557 payment = order = 4
+ Pass : ADO =  0123390518 payment = order = 2
+ Pass : ADO =  0123391627 payment = order = 3
+ Pass : ADO =  0123373890 payment = order = 4
+ Pass : ADO =  0123341027 payment = order = 6
+ Pass : ADO =  0123342207 payment = order = 6
+ Pass : ADO =  0123341820 payment = order = 6
+ Pass : ADO =  0123416230 payment = order = 2
+ process to ado : 0123428911  Index =  80
+ Pass : ADO =  0123428911 payment = order = 2
+ Pass : ADO =  0123314659 payment = order = 7
+ Pass : ADO =  0123314766 payment = order = 7
+ Pass : ADO =  0123314980 payment = order = 7
+ Pass : ADO =  0123314981 payment = order = 7
+ Pass : ADO =  0123315002 payment = order = 7
+ Pass : ADO =  0123315142 payment = order = 6
+ Pass : ADO =  0123315143 payment = order = 6
+ Pass : ADO =  0123416640 payment = order = 2
+ Pass : ADO =  0123417397 payment = order = 2
+ process to ado : 0123432256  Index =  90
+ Pass : ADO =  0123432256 payment = order = 2
+ Pass : ADO =  0123432307 payment = order = 2
+ Pass : ADO =  0123402205 payment = order = 2
+ Pass : ADO =  0123402322 payment = order = 3
+ Pass : ADO =  0123348662 payment = order = 5
+ Pass : ADO =  0123384234 payment = order = 4
+ Pass : ADO =  0123312123 payment = order = 7
+ Pass : ADO =  0123312282 payment = order = 7
+ Pass : ADO =  0123312380 payment = order = 7
+ Pass : ADO =  0123314446 payment = order = 7
+ process to ado : 0123431739  Index =  100
+ Pass : ADO =  0123431739 payment = order = 2
+ Pass : ADO =  0123394048 payment = order = 3
+ Pass : ADO =  0123394728 payment = order = 3
+ Pass : ADO =  0123396566 payment = order = 2
+ Pass : ADO =  0123422613 payment = order = 2
+ Pass : ADO =  0123425476 payment = order = 2
+ Pass : ADO =  0123371191 payment = order = 4
+ Pass : ADO =  0123384107 payment = order = 3
+ Pass : ADO =  0123403865 payment = order = 2
+ Pass : ADO =  0123385515 payment = order = 4
+ process to ado : 0123407777  Index =  110
+ Pass : ADO =  0123407777 payment = order = 3
+ Pass : ADO =  0123409156 payment = order = 3
+ Pass : ADO =  0123353551 payment = order = 5
+ Pass : ADO =  0123357734 payment = order = 5
+ Pass : ADO =  0123386048 payment = order = 4
+ Pass : ADO =  0123386118 payment = order = 4
+ Pass : ADO =  0123386142 payment = order = 4
+ Pass : ADO =  0123386630 payment = order = 4
+ Pass : ADO =  0123314430 payment = order = 7
+ Pass : ADO =  0123314611 payment = order = 7
+ process to ado : 0123314612  Index =  120
+ Pass : ADO =  0123314612 payment = order = 7
+ Pass : ADO =  0123314680 payment = order = 7
+ Pass : ADO =  0123314869 payment = order = 7
+ Pass : ADO =  0123315025 payment = order = 7
+ Pass : ADO =  0123374401 payment = order = 4
+ Pass : ADO =  0123390050 payment = order = 3
+ Pass : ADO =  0123404805 payment = order = 3
+ Pass : ADO =  0123306543 payment = order = 7
+ Pass : ADO =  0123309260 payment = order = 7
+ Pass : ADO =  0123312017 payment = order = 7
+ process to ado : 0123363986  Index =  130
+ 
+ 
+ ******************  BEGIN ***************** 
+ success : 930
+ process to ado : 0123363986  Index =  0
+ Pass : ADO =  0123363986 payment = order = 5
+ Pass : ADO =  0123365845 payment = order = 5
+ Pass : ADO =  0123386860 payment = order = 4
+ Pass : ADO =  0123319264 payment = order = 6
+ Pass : ADO =  0123315271 payment = order = 7
+ Pass : ADO =  0123315360 payment = order = 7
+ Pass : ADO =  0123315829 payment = order = 6
+ Pass : ADO =  0123339816 payment = order = 6
+ Pass : ADO =  0123394575 payment = order = 3
+ Pass : ADO =  0123361384 payment = order = 5
+ process to ado : 0123319123  Index =  10
+ Pass : ADO =  0123319123 payment = order = 6
+ Pass : ADO =  0123322095 payment = order = 6
+ Pass : ADO =  0123313684 payment = order = 7
+ Pass : ADO =  0123315282 payment = order = 7
+ Pass : ADO =  0123369226 payment = order = 4
+ Pass : ADO =  0123318707 payment = order = 6
+ Pass : ADO =  0123319037 payment = order = 6
+ Pass : ADO =  0123370047 payment = order = 4
+ Pass : ADO =  0123305861 payment = order = 7
+ Pass : ADO =  0123305883 payment = order = 7
+ process to ado : 0123377531  Index =  20
+ Pass : ADO =  0123377531 payment = order = 4
+ Pass : ADO =  0123378056 payment = order = 4
+ Pass : ADO =  0123319376 payment = order = 6
+ Pass : ADO =  0123364171 payment = order = 5
+ Pass : ADO =  0123371967 payment = order = 4
+ Pass : ADO =  0123306165 payment = order = 7
+ Pass : ADO =  0123385516 payment = order = 4
+ Pass : ADO =  0123386236 payment = order = 4
+ Pass : ADO =  0123400108 payment = order = 3
+ Pass : ADO =  0123342967 payment = order = 5
+ process to ado : 0123310475  Index =  30
+ Pass : ADO =  0123310475 payment = order = 7
+ Pass : ADO =  0123345260 payment = order = 5
+ Pass : ADO =  0123312455 payment = order = 7
+ Pass : ADO =  0123314445 payment = order = 7
+ Pass : ADO =  0123314767 payment = order = 7
+ Pass : ADO =  0123313666 payment = order = 7
+ Pass : ADO =  0123313885 payment = order = 7
+ Pass : ADO =  0123315113 payment = order = 7
+ Pass : ADO =  0123315144 payment = order = 7
+ Pass : ADO =  0123315155 payment = order = 7
+ process to ado : 0123315260  Index =  40
+ 
+ 
+ ******************  BEGIN ***************** 
+ success : 891
+ process to ado : 0123315155  Index =  0
+ Pass : ADO =  0123315155 payment = order = 7
+ Pass : ADO =  0123315260 payment = order = 7
+ Pass : ADO =  0123384425 payment = order = 4
+ Pass : ADO =  0123386793 payment = order = 4
+ Pass : ADO =  0123362863 payment = order = 5
+ Pass : ADO =  0123364120 payment = order = 5
+ Pass : ADO =  0123312186 payment = order = 7
+ Pass : ADO =  0123434777 payment = order = 2
+ Pass : ADO =  0123436909 payment = order = 1
+ Pass : ADO =  0123441265 payment = order = 1
+ process to ado : 0123366420  Index =  10
+ Pass : ADO =  0123366420 payment = order = 5
+ Pass : ADO =  0123433918 payment = order = 2
+ Pass : ADO =  0123434800 payment = order = 2
+ Pass : ADO =  0123440776 payment = order = 1
+ Pass : ADO =  0123450510 payment = order = 1
+ Pass : ADO =  0123450926 payment = order = 1
+ Pass : ADO =  0123451110 payment = order = 1
+ Pass : ADO =  0123453623 payment = order = 1
+ Pass : ADO =  0123442003 payment = order = 1
+ Pass : ADO =  0123429938 payment = order = 2
+ process to ado : 0123336736  Index =  20
+ Pass : ADO =  0123336736 payment = order = 6
+ Pass : ADO =  0123445176 payment = order = 1
+ Pass : ADO =  0123452806 payment = order = 1
+ Pass : ADO =  0123452851 payment = order = 1
+ Pass : ADO =  0123452916 payment = order = 1
+ Pass : ADO =  0123432683 payment = order = 2
+ Pass : ADO =  0123434443 payment = order = 2
+ Pass : ADO =  0123338745 payment = order = 6
+ Pass : ADO =  0123451141 payment = order = 1
+ Pass : ADO =  0123451317 payment = order = 1
+ process to ado : 0123455040  Index =  30
+ Pass : ADO =  0123455040 payment = order = 1
+ Pass : ADO =  0123455185 payment = order = 1
+ Pass : ADO =  0123441771 payment = order = 1
+ Pass : ADO =  0123451306 payment = order = 1
+ Pass : ADO =  0123434015 payment = order = 2
+ Pass : ADO =  0123439485 payment = order = 1
+ Pass : ADO =  0123439518 payment = order = 1
+ Pass : ADO =  0123446466 payment = order = 1
+ Pass : ADO =  0123446455 payment = order = 1
+ Pass : ADO =  0123454327 payment = order = 1
+ process to ado : 0123455172  Index =  40
+ Pass : ADO =  0123455172 payment = order = 1
+ Pass : ADO =  0123453515 payment = order = 1
+ Pass : ADO =  0123454382 payment = order = 1
+ Pass : ADO =  0123455186 payment = order = 1
+ Pass : ADO =  0123315483 payment = order = 7
+ Pass : ADO =  0123315550 payment = order = 7
+ Pass : ADO =  0123315812 payment = order = 7
+ Pass : ADO =  0123315816 payment = order = 7
+ Pass : ADO =  0123315817 payment = order = 7
+ Pass : ADO =  0123317662 payment = order = 6
+ process to ado : 0123429775  Index =  50
+ Pass : ADO =  0123429775 payment = order = 2
+ Pass : ADO =  0123430304 payment = order = 2
+ Pass : ADO =  0123361182 payment = order = 5
+ Pass : ADO =  0123433577 payment = order = 2
+ Pass : ADO =  0123433578 payment = order = 2
+ Pass : ADO =  0123434047 payment = order = 2
+ Pass : ADO =  0123434376 payment = order = 2
+ Pass : ADO =  0123434406 payment = order = 2
+ Pass : ADO =  0123434464 payment = order = 2
+ Pass : ADO =  0123434779 payment = order = 2
+ process to ado : 0123351330  Index =  60
+ Pass : ADO =  0123351330 payment = order = 5
+ Pass : ADO =  0123438987 payment = order = 1
+ Pass : ADO =  0123441452 payment = order = 1
+ Pass : ADO =  0123454931 payment = order = 1
+ Pass : ADO =  0123455150 payment = order = 1
+ Pass : ADO =  0123441171 payment = order = 1
+ Pass : ADO =  0123330152 payment = order = 6
+ Pass : ADO =  0123447805 payment = order = 1
+ Pass : ADO =  0123448648 payment = order = 1
+ Pass : ADO =  0123450824 payment = order = 1
+ process to ado : 0123451295  Index =  70
+ Pass : ADO =  0123451295 payment = order = 1
+ Pass : ADO =  0123453829 payment = order = 1
+ Pass : ADO =  0123454201 payment = order = 1
+ Pass : ADO =  0123454274 payment = order = 1
+ Pass : ADO =  0123454930 payment = order = 1
+ Pass : ADO =  0123455184 payment = order = 1
+ Pass : ADO =  0123455187 payment = order = 1
+ Pass : ADO =  0123323269 payment = order = 6
+ Pass : ADO =  0123426456 payment = order = 2
+ Pass : ADO =  0123431695 payment = order = 2
+ process to ado : 0123431696  Index =  80
+ Pass : ADO =  0123431696 payment = order = 2
+ Pass : ADO =  0123363909 payment = order = 5
+ Pass : ADO =  0123364039 payment = order = 5
+ Pass : ADO =  0123427862 payment = order = 2
+ Pass : ADO =  0123428695 payment = order = 2
+ Pass : ADO =  0123333080 payment = order = 6
+ Pass : ADO =  0123306886 payment = order = 7
+ Pass : ADO =  0123381501 payment = order = 4
+ Pass : ADO =  0123382041 payment = order = 4
+ Pass : ADO =  0123335768 payment = order = 6
+ process to ado : 0123342223  Index =  90
+ Pass : ADO =  0123342223 payment = order = 5
+ Pass : ADO =  0123377529 payment = order = 4
+ Pass : ADO =  0123428076 payment = order = 1
+ Pass : ADO =  0123416595 payment = order = 2
+ Pass : ADO =  0123402345 payment = order = 3
+ Pass : ADO =  0123307538 payment = order = 7
+ Pass : ADO =  0123308676 payment = order = 7
+ Pass : ADO =  0123311165 payment = order = 7
+ Pass : ADO =  0123343068 payment = order = 5
+ Pass : ADO =  0123397776 payment = order = 2
+ process to ado : 0123311176  Index =  100
+ Pass : ADO =  0123311176 payment = order = 7
+ Pass : ADO =  0123430160 payment = order = 2
+ Pass : ADO =  0123349091 payment = order = 5
+ Pass : ADO =  0123404784 payment = order = 3
+ Pass : ADO =  0123405188 payment = order = 3
+ Pass : ADO =  0123403643 payment = order = 3
+ Pass : ADO =  0123336264 payment = order = 6
+ Pass : ADO =  0123403888 payment = order = 3
+ Pass : ADO =  0123404847 payment = order = 3
+ Pass : ADO =  0123405177 payment = order = 3
+ process to ado : 0123375486  Index =  110
+ Pass : ADO =  0123375486 payment = order = 3
+ Pass : ADO =  0123403833 payment = order = 3
+ Pass : ADO =  0123324207 payment = order = 6
+ Pass : ADO =  0123360492 payment = order = 5
+ Pass : ADO =  0123317611 payment = order = 6
+ Pass : ADO =  0123336940 payment = order = 6
+ Pass : ADO =  0123337160 payment = order = 6
+ Pass : ADO =  0123361334 payment = order = 4
+ Pass : ADO =  0123362214 payment = order = 5
+ Pass : ADO =  0123369310 payment = order = 4
+ process to ado : 0123318904  Index =  120
+ Pass : ADO =  0123318904 payment = order = 6
+ Pass : ADO =  0123319069 payment = order = 6
+ Pass : ADO =  0123308039 payment = order = 7
+ Pass : ADO =  0123308247 payment = order = 7
+ Pass : ADO =  0123335469 payment = order = 6
+ Pass : ADO =  0123364040 payment = order = 4
+ Pass : ADO =  0123310839 payment = order = 7
+ Pass : ADO =  0123309818 payment = order = 7
+ Pass : ADO =  0123330131 payment = order = 5
+ Pass : ADO =  0123312100 payment = order = 6
+ process to ado : 0123312020  Index =  130
+ Pass : ADO =  0123312020 payment = order = 7
+ Pass : ADO =  0123383650 payment = order = 4
+ Pass : ADO =  0123361989 payment = order = 5
+ Pass : ADO =  0123362225 payment = order = 5
+ Pass : ADO =  0123362226 payment = order = 5
+ Pass : ADO =  0123354542 payment = order = 5
+ Pass : ADO =  0123362555 payment = order = 5
+ Pass : ADO =  0123426455 payment = order = 2
+ Pass : ADO =  0123426810 payment = order = 2
+ Pass : ADO =  0123437032 payment = order = 1
+ process to ado : 0123437824  Index =  140
+ Pass : ADO =  0123437824 payment = order = 1
+ Pass : ADO =  0123439487 payment = order = 1
+ Pass : ADO =  0123424789 payment = order = 2
+ Pass : ADO =  0123450268 payment = order = 1
+ Pass : ADO =  0123433895 payment = order = 1
+ Pass : ADO =  0123441657 payment = order = 1
+ Pass : ADO =  0123429738 payment = order = 2
+ Pass : ADO =  0123443449 payment = order = 1
+ Pass : ADO =  0123446599 payment = order = 1
+ Pass : ADO =  0123450710 payment = order = 1
+ process to ado : 0123450823  Index =  150
+ Pass : ADO =  0123450823 payment = order = 1
+ Pass : ADO =  0123336973 payment = order = 6
+ Pass : ADO =  0123442798 payment = order = 1
+ Pass : ADO =  0123442854 payment = order = 1
+ Pass : ADO =  0123450362 payment = order = 1
+ Pass : ADO =  0123437011 payment = order = 1
+ Pass : ADO =  0123437064 payment = order = 1
+ Pass : ADO =  0123449438 payment = order = 1
+ Pass : ADO =  0123450245 payment = order = 1
+ Pass : ADO =  0123450585 payment = order = 1
+ process to ado : 0123430162  Index =  160
+ Pass : ADO =  0123430162 payment = order = 2
+ Pass : ADO =  0123425874 payment = order = 2
+ Pass : ADO =  0123362937 payment = order = 5
+ Pass : ADO =  0123426366 payment = order = 2
+ Pass : ADO =  0123357462 payment = order = 5
+ Pass : ADO =  0123425013 payment = order = 2
+ Pass : ADO =  0123441543 payment = order = 1
+ Pass : ADO =  0123449645 payment = order = 1
+ Pass : ADO =  0123442303 payment = order = 1
+ Pass : ADO =  0123443108 payment = order = 1
+ process to ado : 0123446203  Index =  170
+ Pass : ADO =  0123446203 payment = order = 1
+ Pass : ADO =  0123446620 payment = order = 1
+ Pass : ADO =  0123336173 payment = order = 6
+ Pass : ADO =  0123430538 payment = order = 2
+ Pass : ADO =  0123321408 payment = order = 6
+ Pass : ADO =  0123426467 payment = order = 2
+ Pass : ADO =  0123426774 payment = order = 2
+ Pass : ADO =  0123426775 payment = order = 2
+ Pass : ADO =  0123426892 payment = order = 2
+ Pass : ADO =  0123428254 payment = order = 2
+ process to ado : 0123398710  Index =  180
+ Pass : ADO =  0123398710 payment = order = 3
+ Pass : ADO =  0123377742 payment = order = 4
+ Pass : ADO =  0123380554 payment = order = 4
+ Pass : ADO =  0123380555 payment = order = 4
+ Pass : ADO =  0123417317 payment = order = 2
+ Pass : ADO =  0123432599 payment = order = 1
+ Pass : ADO =  0123402216 payment = order = 3
+ Pass : ADO =  0123424199 payment = order = 2
+ Pass : ADO =  0123371524 payment = order = 4
+ Pass : ADO =  0123400866 payment = order = 3
+ process to ado : 0123402367  Index =  190
+ Pass : ADO =  0123402367 payment = order = 3
+ Pass : ADO =  0123379429 payment = order = 4
+ Pass : ADO =  0123306544 payment = order = 7
+ Pass : ADO =  0123307052 payment = order = 7
+ Pass : ADO =  0123412831 payment = order = 2
+ Pass : ADO =  0123319102 payment = order = 6
+ Pass : ADO =  0123323272 payment = order = 6
+ Pass : ADO =  0123323366 payment = order = 6
+ Pass : ADO =  0123325492 payment = order = 6
+ Pass : ADO =  0123365559 payment = order = 4
+ process to ado : 0123342523  Index =  200
+ Pass : ADO =  0123342523 payment = order = 5
+ Pass : ADO =  0123306292 payment = order = 7
+ Pass : ADO =  0123398858 payment = order = 3
+ Pass : ADO =  0123333183 payment = order = 6
+ Pass : ADO =  0123356646 payment = order = 5
+ Pass : ADO =  0123356808 payment = order = 5
+ Pass : ADO =  0123356831 payment = order = 5
+ Pass : ADO =  0123358865 payment = order = 5
+ Pass : ADO =  0123441451 payment = order = 1
+ Pass : ADO =  0123440131 payment = order = 1
+ process to ado : 0123424052  Index =  210
+ Pass : ADO =  0123424052 payment = order = 2
+ Pass : ADO =  0123443219 payment = order = 1
+ Pass : ADO =  0123443864 payment = order = 1
+ Pass : ADO =  0123446752 payment = order = 1
+ Pass : ADO =  0123447099 payment = order = 1
+ Pass : ADO =  0123434489 payment = order = 1
+ Pass : ADO =  0123446862 payment = order = 1
+ Pass : ADO =  0123438976 payment = order = 1
+ Pass : ADO =  0123446341 payment = order = 1
+ Pass : ADO =  0123330054 payment = order = 6
+ process to ado : 0123317351  Index =  220
+ Pass : ADO =  0123317351 payment = order = 6
+ Pass : ADO =  0123318760 payment = order = 6
+ Pass : ADO =  0123425706 payment = order = 2
+ Pass : ADO =  0123425863 payment = order = 2
+ Pass : ADO =  0123424914 payment = order = 2
+ Pass : ADO =  0123425135 payment = order = 2
+ Pass : ADO =  0123425475 payment = order = 2
+ Pass : ADO =  0123425563 payment = order = 2
+ Pass : ADO =  0123359182 payment = order = 5
+ Pass : ADO =  0123443282 payment = order = 1
+ process to ado : 0123446076  Index =  230
+ Pass : ADO =  0123446076 payment = order = 1
+ Pass : ADO =  0123446454 payment = order = 1
+ Pass : ADO =  0123447016 payment = order = 1
+ Pass : ADO =  0123425707 payment = order = 2
+ Pass : ADO =  0123443106 payment = order = 1
+ Pass : ADO =  0123443463 payment = order = 1
+ Pass : ADO =  0123446202 payment = order = 1
+ Pass : ADO =  0123426613 payment = order = 2
+ Pass : ADO =  0123327959 payment = order = 6
+ Pass : ADO =  0123409597 payment = order = 2
+ process to ado : 0123395612  Index =  240
+ Pass : ADO =  0123395612 payment = order = 3
+ Pass : ADO =  0123412781 payment = order = 2
+ Pass : ADO =  0123413889 payment = order = 2
+ Pass : ADO =  0123398910 payment = order = 3
+ Pass : ADO =  0123376397 payment = order = 3
+ Pass : ADO =  0123376943 payment = order = 4
+ Pass : ADO =  0123377784 payment = order = 4
+ Pass : ADO =  0123328573 payment = order = 6
+ Pass : ADO =  0123419724 payment = order = 2
+ Pass : ADO =  0123421052 payment = order = 2
+ process to ado : 0123421469  Index =  250
+ Pass : ADO =  0123421469 payment = order = 1
+ Pass : ADO =  0123421709 payment = order = 2
+ Pass : ADO =  0123414110 payment = order = 2
+ Pass : ADO =  0123415620 payment = order = 2
+ Pass : ADO =  0123416198 payment = order = 2
+ Pass : ADO =  0123416562 payment = order = 2
+ Pass : ADO =  0123417133 payment = order = 2
+ Pass : ADO =  0123347661 payment = order = 5
+ Pass : ADO =  0123350581 payment = order = 5
+ Pass : ADO =  0123392788 payment = order = 3
+ process to ado : 0123413980  Index =  260
+ Pass : ADO =  0123413980 payment = order = 2
+ Pass : ADO =  0123414368 payment = order = 2
+ Pass : ADO =  0123416357 payment = order = 2
+ Pass : ADO =  0123417866 payment = order = 2
+ Pass : ADO =  0123368385 payment = order = 4
+ Pass : ADO =  0123370046 payment = order = 4
+ Pass : ADO =  0123379418 payment = order = 3
+ Pass : ADO =  0123396524 payment = order = 3
+ Pass : ADO =  0123421990 payment = order = 2
+ Pass : ADO =  0123422892 payment = order = 2
+ process to ado : 0123371377  Index =  270
+ Pass : ADO =  0123371377 payment = order = 4
+ Pass : ADO =  0123371762 payment = order = 4
+ Pass : ADO =  0123373891 payment = order = 3
+ Pass : ADO =  0123351484 payment = order = 5
+ Pass : ADO =  0123353628 payment = order = 5
+ Pass : ADO =  0123354328 payment = order = 5
+ Pass : ADO =  0123398773 payment = order = 2
+ Pass : ADO =  0123375572 payment = order = 4
+ Pass : ADO =  0123376188 payment = order = 4
+ Pass : ADO =  0123391915 payment = order = 3
+ process to ado : 0123413648  Index =  280
+ Pass : ADO =  0123413648 payment = order = 1
+ Pass : ADO =  0123390414 payment = order = 3
+ Pass : ADO =  0123395539 payment = order = 3
+ Pass : ADO =  0123371389 payment = order = 4
+ Pass : ADO =  0123319676 payment = order = 6
+ Pass : ADO =  0123389801 payment = order = 3
+ Pass : ADO =  0123366796 payment = order = 4
+ Pass : ADO =  0123318673 payment = order = 6
+ Pass : ADO =  0123318802 payment = order = 6
+ Pass : ADO =  0123335502 payment = order = 5
+ process to ado : 0123394440  Index =  290
+ Pass : ADO =  0123394440 payment = order = 3
+ Pass : ADO =  0123350139 payment = order = 5
+ Pass : ADO =  0123365160 payment = order = 4
+ Pass : ADO =  0123365464 payment = order = 4
+ Pass : ADO =  0123378438 payment = order = 4
+ Pass : ADO =  0123382036 payment = order = 3
+ Pass : ADO =  0123311925 payment = order = 6
+ Pass : ADO =  0123397827 payment = order = 3
+ Pass : ADO =  0123352420 payment = order = 5
+ Pass : ADO =  0123383770 payment = order = 3
+ process to ado : 0123362048  Index =  300
+ Pass : ADO =  0123362048 payment = order = 4
+ Pass : ADO =  0123362710 payment = order = 4
+ Pass : ADO =  0123437120 payment = order = 1
+ Pass : ADO =  0123441328 payment = order = 1
+ Pass : ADO =  0123441339 payment = order = 1
+ Pass : ADO =  0123443093 payment = order = 1
+ Pass : ADO =  0123442302 payment = order = 1
+ Pass : ADO =  0123442343 payment = order = 1
+ Pass : ADO =  0123442446 payment = order = 1
+ Pass : ADO =  0123422830 payment = order = 2
+ process to ado : 0123441327  Index =  310
+ Pass : ADO =  0123441327 payment = order = 1
+ Pass : ADO =  0123443719 payment = order = 1
+ Pass : ADO =  0123441159 payment = order = 1
+ Pass : ADO =  0123442176 payment = order = 1
+ Pass : ADO =  0123442317 payment = order = 1
+ Pass : ADO =  0123442458 payment = order = 1
+ Pass : ADO =  0123434405 payment = order = 1
+ Pass : ADO =  0123434776 payment = order = 1
+ Pass : ADO =  0123443683 payment = order = 1
+ Pass : ADO =  0123419015 payment = order = 2
+ process to ado : 0123419614  Index =  320
+ Pass : ADO =  0123419614 payment = order = 2
+ Pass : ADO =  0123420130 payment = order = 2
+ Pass : ADO =  0123420468 payment = order = 1
+ Pass : ADO =  0123325377 payment = order = 6
+ Pass : ADO =  0123325626 payment = order = 6
+ Pass : ADO =  0123328010 payment = order = 6
+ Pass : ADO =  0123361926 payment = order = 4
+ Pass : ADO =  0123353626 payment = order = 5
+ Pass : ADO =  0123424991 payment = order = 1
+ Pass : ADO =  0123424992 payment = order = 1
+ process to ado : 0123441718  Index =  330
+ Pass : ADO =  0123441718 payment = order = 1
+ Pass : ADO =  0123442318 payment = order = 1
+ Pass : ADO =  0123442385 payment = order = 1
+ Pass : ADO =  0123420909 payment = order = 2
+ Pass : ADO =  0123421073 payment = order = 2
+ Pass : ADO =  0123421440 payment = order = 2
+ Pass : ADO =  0123441584 payment = order = 1
+ Pass : ADO =  0123442064 payment = order = 1
+ Pass : ADO =  0123443682 payment = order = 1
+ Pass : ADO =  0123421584 payment = order = 1
+ process to ado : 0123421677  Index =  340
+ Pass : ADO =  0123421677 payment = order = 2
+ Pass : ADO =  0123421814 payment = order = 1
+ Pass : ADO =  0123421927 payment = order = 2
+ Pass : ADO =  0123430550 payment = order = 1
+ Pass : ADO =  0123426797 payment = order = 1
+ Pass : ADO =  0123330153 payment = order = 5
+ Pass : ADO =  0123408058 payment = order = 2
+ Pass : ADO =  0123409862 payment = order = 2
+ Pass : ADO =  0123410077 payment = order = 2
+ Pass : ADO =  0123418879 payment = order = 1
+ process to ado : 0123374840  Index =  350
+ Pass : ADO =  0123374840 payment = order = 3
+ Pass : ADO =  0123414051 payment = order = 1
+ Pass : ADO =  0123314780 payment = order = 6
+ Pass : ADO =  0123431981 payment = order = 1
+ Pass : ADO =  0123432042 payment = order = 1
+ Pass : ADO =  0123312175 payment = order = 6
+ Pass : ADO =  0123414080 payment = order = 1
+ Pass : ADO =  0123386716 payment = order = 3
+ Pass : ADO =  0123307843 payment = order = 6
+ Pass : ADO =  0123384235 payment = order = 3
+ process to ado : 0123314019  Index =  360
+ Pass : ADO =  0123314019 payment = order = 6
+ Pass : ADO =  0123314769 payment = order = 6
+ Pass : ADO =  0123314947 payment = order = 6
+ Pass : ADO =  0123404333 payment = order = 2
+ Pass : ADO =  0123405929 payment = order = 2
+ Pass : ADO =  0123308751 payment = order = 6
+ *******  Error  : ADO = 0123409691 payment Success != number Order  7 : 2
+ Pass : ADO =  0123389588 payment = order = 2
+ Pass : ADO =  0123389995 payment = order = 2
+ Pass : ADO =  0123366484 payment = order = 4
+ process to ado : 0123362543  Index =  370
+ Pass : ADO =  0123362543 payment = order = 3
+ Pass : ADO =  0123365225 payment = order = 4
+ *******  Error  : ADO = 0123376116 payment Success != number Order  5 : 3
+ Pass : ADO =  0123330120 payment = order = 5
+ Pass : ADO =  0123386917 payment = order = 3
+ Pass : ADO =  0123389996 payment = order = 2
+ Pass : ADO =  0123309918 payment = order = 6
+ Pass : ADO =  0123312315 payment = order = 6
+ Pass : ADO =  0123374060 payment = order = 3
+ Pass : ADO =  0123312633 payment = order = 6
+ process to ado : 0123335695  Index =  380
+ Pass : ADO =  0123335695 payment = order = 5
+ Pass : ADO =  0123312270 payment = order = 6
+ Pass : ADO =  0123315156 payment = order = 6
+ Pass : ADO =  0123384426 payment = order = 3
+ Pass : ADO =  0123386970 payment = order = 2
+ Pass : ADO =  0123434381 payment = order = 1
+ Pass : ADO =  0123434778 payment = order = 1
+ Pass : ADO =  0123429810 payment = order = 1
+ Pass : ADO =  0123432881 payment = order = 1
+ Pass : ADO =  0123434069 payment = order = 1
+ process to ado : 0123434070  Index =  390
+  Pass : ADO =  0123434070 payment = order = 1
+ Pass : ADO =  0123434723 payment = order = 1
+ Pass : ADO =  0123339708 payment = order = 5
+ Pass : ADO =  0123434339 payment = order = 1
+ Pass : ADO =  0123434490 payment = order = 1
+ Pass : ADO =  0123420469 payment = order = 1
+ Pass : ADO =  0123315472 payment = order = 6
+ Pass : ADO =  0123434340 payment = order = 1
+ Pass : ADO =  0123434407 payment = order = 1
+ Pass : ADO =  0123425665 payment = order = 1
+  process to ado : 0123421583  Index =  400
+  
+  ******************  BEGIN ***************** 
+ success : 491
+ process to ado : 0123421583  Index =  0
+ Pass : ADO =  0123421583 payment = order = 1
+ Pass : ADO =  0123421711 payment = order = 1
+ Pass : ADO =  0123320015 payment = order = 5
+ Pass : ADO =  0123324136 payment = order = 5
+ Pass : ADO =  0123431694 payment = order = 1
+ Pass : ADO =  0123431723 payment = order = 1
+ Pass : ADO =  0123410594 payment = order = 1
+ Pass : ADO =  0123382466 payment = order = 3
+ Pass : ADO =  0123382870 payment = order = 3
+ Pass : ADO =  0123337194 payment = order = 5
+ process to ado : 0123400913  Index =  10
+ Pass : ADO =  0123400913 payment = order = 2
+ Pass : ADO =  0123416702 payment = order = 1
+ Pass : ADO =  0123380881 payment = order = 3
+ Pass : ADO =  0123423290 payment = order = 1
+ Pass : ADO =  0123382010 payment = order = 3
+ Pass : ADO =  0123311924 payment = order = 6
+ Pass : ADO =  0123430292 payment = order = 1
+ Pass : ADO =  0123374390 payment = order = 3
+ Pass : ADO =  0123405209 payment = order = 2
+ Pass : ADO =  0123405500 payment = order = 2
+ process to ado : 0123392018  Index =  20
+ Pass : ADO =  0123392018 payment = order = 2
+ Pass : ADO =  0123362368 payment = order = 4
+ Pass : ADO =  0123418807 payment = order = 1
+ Pass : ADO =  0123370236 payment = order = 3
+ Pass : ADO =  0123382098 payment = order = 3
+ Pass : ADO =  0123401688 payment = order = 2
+ Pass : ADO =  0123395871 payment = order = 2
+ Pass : ADO =  0123429798 payment = order = 1
+ Pass : ADO =  0123429809 payment = order = 1
+ Pass : ADO =  0123430021 payment = order = 1
+ process to ado : 0123430122  Index =  30
+ Pass : ADO =  0123430122 payment = order = 1
+ Pass : ADO =  0123430390 payment = order = 1
+ Pass : ADO =  0123426013 payment = order = 1
+ Pass : ADO =  0123358967 payment = order = 4
+ Pass : ADO =  0123421521 payment = order = 1
+ Pass : ADO =  0123426551 payment = order = 1
+ Pass : ADO =  0123391770 payment = order = 2
+ Pass : ADO =  0123399142 payment = order = 2
+ Pass : ADO =  0123401128 payment = order = 2
+ Pass : ADO =  0123398469 payment = order = 2
+ process to ado : 0123380182  Index =  40
+ Pass : ADO =  0123380182 payment = order = 3
+ Pass : ADO =  0123306840 payment = order = 6
+ Pass : ADO =  0123426431 payment = order = 1
+ Pass : ADO =  0123407773 payment = order = 1
+ Pass : ADO =  0123419683 payment = order = 1
+ Pass : ADO =  0123420301 payment = order = 1
+ Pass : ADO =  0123421084 payment = order = 1
+ Pass : ADO =  0123416286 payment = order = 1
+ Pass : ADO =  0123384094 payment = order = 2
+ Pass : ADO =  0123394626 payment = order = 2
+ process to ado : 0123402369  Index =  50
+ Pass : ADO =  0123402369 payment = order = 1
+ Pass : ADO =  0123404859 payment = order = 1
+ Pass : ADO =  0123389630 payment = order = 2
+ Pass : ADO =  0123416285 payment = order = 1
+ Pass : ADO =  0123371378 payment = order = 3
+ Pass : ADO =  0123393511 payment = order = 2
+ Pass : ADO =  0123376396 payment = order = 3
+ Pass : ADO =  0123371720 payment = order = 2
+ Pass : ADO =  0123396266 payment = order = 2
+ Pass : ADO =  0123353614 payment = order = 4
+ process to ado : 0123422001  Index =  60
+ Pass : ADO =  0123422001 payment = order = 1
+ Pass : ADO =  0123406239 payment = order = 1
+ *******  Error  : ADO = 0123406371 payment Success != number Order  2 : 1
+ Pass : ADO =  0123407976 payment = order = 1
+ Pass : ADO =  0123408779 payment = order = 1
+ Pass : ADO =  0123408780 payment = order = 1
+ Pass : ADO =  0123409337 payment = order = 1
+ Pass : ADO =  0123409596 payment = order = 1
+ Pass : ADO =  0123409983 payment = order = 1
+ Pass : ADO =  0123392194 payment = order = 1
+ process to ado : 0123394451  Index =  70
+ Pass : ADO =  0123394451 payment = order = 1
+ Pass : ADO =  0123383165 payment = order = 2
+ Pass : ADO =  0123391539 payment = order = 1
+ Pass : ADO =  0123398955 payment = order = 1
+ Pass : ADO =  0123314613 payment = order = 5
+ Pass : ADO =  0123383567 payment = order = 2
+ Pass : ADO =  0123341851 payment = order = 4
+ Pass : ADO =  0123383858 payment = order = 2
+ *******  Error  : ADO = 0123313474 payment Success != number Order  6 : 5
+ Pass : ADO =  0123373690 payment = order = 2
+ process to ado : 0123384351  Index =  80
+ Pass : ADO =  0123384351 payment = order = 2
+ Pass : ADO =  0123407800 payment = order = 1
+ Pass : ADO =  0123409138 payment = order = 1
+ Pass : ADO =  0123409150 payment = order = 1
+ Pass : ADO =  0123386444 payment = order = 2
+ Pass : ADO =  0123386741 payment = order = 2
+ Pass : ADO =  0123403596 payment = order = 1
+ Pass : ADO =  0123403864 payment = order = 1
+ Pass : ADO =  0123386795 payment = order = 2
+ Pass : ADO =  0123401010 payment = order = 1
+ process to ado : 0123380380  Index =  90
+ Pass : ADO =  0123380380 payment = order = 2
+ Pass : ADO =  0123388658 payment = order = 1
+ Pass : ADO =  0123315708 payment = order = 5
+ Pass : ADO =  0123365087 payment = order = 3
+ Pass : ADO =  0123373784 payment = order = 2
+ Pass : ADO =  0123317598 payment = order = 4
+ Pass : ADO =  0123366167 payment = order = 3
+ Pass : ADO =  0123366213 payment = order = 3
+ Pass : ADO =  0123366795 payment = order = 2
+ Pass : ADO =  0123335490 payment = order = 4
+ process to ado : 0123377516  Index =  100
+ Pass : ADO =  0123377516 payment = order = 2
+ Pass : ADO =  0123385452 payment = order = 2
+ Pass : ADO =  0123361448 payment = order = 3
+ Pass : ADO =  0123313711 payment = order = 5
+ Pass : ADO =  0123357370 payment = order = 3
+ Pass : ADO =  0123384372 payment = order = 2
+ Pass : ADO =  0123386413 payment = order = 2
+ Pass : ADO =  0123386794 payment = order = 2
+ Pass : ADO =  0123366330 payment = order = 3
+ Pass : ADO =  0123325534 payment = order = 4
+ process to ado : 0123317319  Index =  110
+ Pass : ADO =  0123317319 payment = order = 4
+ Pass : ADO =  0123361183 payment = order = 3
+ Pass : ADO =  0123361494 payment = order = 3
+ Pass : ADO =  0123325325 payment = order = 4
+ Pass : ADO =  0123398316 payment = order = 1
+ Pass : ADO =  0123306052 payment = order = 5
+ Pass : ADO =  0123306126 payment = order = 5
+ Pass : ADO =  0123309729 payment = order = 5
+ Pass : ADO =  0123404661 payment = order = 1
+ Pass : ADO =  0123403521 payment = order = 1
+ process to ado : 0123399446  Index =  120
+ Pass : ADO =  0123399446 payment = order = 1
+ Pass : ADO =  0123404881 payment = order = 1
+ Pass : ADO =  0123336939 payment = order = 4
+ Pass : ADO =  0123345183 payment = order = 3
+ *******  Error  : ADO = 0123380542 payment Success != number Order  5 : 2
+ Pass : ADO =  0123377795 payment = order = 2
+ Pass : ADO =  0123306818 payment = order = 5
+ Pass : ADO =  0123384414 payment = order = 1
+ Pass : ADO =  0123325440 payment = order = 4
+ Pass : ADO =  0123336236 payment = order = 4
+ process to ado : 0123321409  Index =  130
+ Pass : ADO =  0123321409 payment = order = 4
+ Pass : ADO =  0123390445 payment = order = 1
+ Pass : ADO =  0123331719 payment = order = 4
+ Pass : ADO =  0123401094 payment = order = 1
+ Pass : ADO =  0123399310 payment = order = 1
+ Pass : ADO =  0123399488 payment = order = 1
+ Pass : ADO =  0123330055 payment = order = 4
+ Pass : ADO =  0123380802 payment = order = 2
+ Pass : ADO =  0123356396 payment = order = 3
+ Pass : ADO =  0123393875 payment = order = 1
+ process to ado : 0123395601  Index =  140
+ Pass : ADO =  0123395601 payment = order = 1
+ Pass : ADO =  0123396579 payment = order = 1
+ Pass : ADO =  0123398127 payment = order = 1
+ Pass : ADO =  0123398677 payment = order = 1
+ Pass : ADO =  0123390920 payment = order = 1
+ Pass : ADO =  0123392044 payment = order = 1
+ Pass : ADO =  0123393267 payment = order = 1
+ Pass : ADO =  0123393510 payment = order = 1
+ Pass : ADO =  0123394358 payment = order = 1
+ Pass : ADO =  0123396500 payment = order = 1
+ process to ado : 0123390246  Index =  150
+ Pass : ADO =  0123390246 payment = order = 1
+ Pass : ADO =  0123390341 payment = order = 1
+ Pass : ADO =  0123390412 payment = order = 1
+ Pass : ADO =  0123317335 payment = order = 4
+ Pass : ADO =  0123323854 payment = order = 4
+ Pass : ADO =  0123395654 payment = order = 1
+ Pass : ADO =  0123354613 payment = order = 3
+ Pass : ADO =  0123389954 payment = order = 1
+ Pass : ADO =  0123393393 payment = order = 1
+ Pass : ADO =  0123395146 payment = order = 1
+ process to ado : 0123364109  Index =  160
+  Pass : ADO =  0123364109 payment = order = 2
+ Pass : ADO =  0123326941 payment = order = 4
+ Pass : ADO =  0123379624 payment = order = 1
+ Pass : ADO =  0123391694 payment = order = 1
+ Pass : ADO =  0123375570 payment = order = 2
+ Pass : ADO =  0123352384 payment = order = 3
+ Pass : ADO =  0123312601 payment = order = 4
+ Pass : ADO =  0123328870 payment = order = 4
+ Pass : ADO =  0123353627 payment = order = 3
+ Pass : ADO =  0123312662 payment = order = 4
+ process to ado : 0123374837  Index =  170
+ Pass : ADO =  0123374837 payment = order = 1
+ Pass : ADO =  0123374838 payment = order = 1
+ Pass : ADO =  0123340902 payment = order = 3
+ Pass : ADO =  0123314755 payment = order = 4
+ Pass : ADO =  0123342144 payment = order = 3
+ Pass : ADO =  0123311696 payment = order = 4
+ Pass : ADO =  0123380638 payment = order = 1
+ Pass : ADO =  0123381549 payment = order = 1
+ Pass : ADO =  0123382009 payment = order = 1
+ Pass : ADO =  0123383882 payment = order = 1
+ process to ado : 0123385947  Index =  180
+ Pass : ADO =  0123385947 payment = order = 1
+ Pass : ADO =  0123386319 payment = order = 1
+ Pass : ADO =  0123311284 payment = order = 3
+ Pass : ADO =  0123314724 payment = order = 4
+ Pass : ADO =  0123354297 payment = order = 2
+ Pass : ADO =  0123385519 payment = order = 1
+ Pass : ADO =  0123374836 payment = order = 1
+ Pass : ADO =  0123361159 payment = order = 2
+ Pass : ADO =  0123362659 payment = order = 2
+ Pass : ADO =  0123366251 payment = order = 2
+ process to ado : 0123386896  Index =  190
+ Pass : ADO =  0123386896 payment = order = 1
+ Pass : ADO =  0123315685 payment = order = 4
+ Pass : ADO =  0123342224 payment = order = 3
+ Pass : ADO =  0123362049 payment = order = 2
+ Pass : ADO =  0123365518 payment = order = 2
+ Pass : ADO =  0123366388 payment = order = 2
+ Pass : ADO =  0123368261 payment = order = 1
+ Pass : ADO =  0123306979 payment = order = 4
+ Pass : ADO =  0123382266 payment = order = 1
+ Pass : ADO =  0123380947 payment = order = 1
+ process to ado : 0123384151  Index =  200
+ Pass : ADO =  0123384151 payment = order = 1
+ Pass : ADO =  0123385431 payment = order = 1
+ Pass : ADO =  0123312054 payment = order = 4
+ Pass : ADO =  0123383629 payment = order = 1
+ Pass : ADO =  0123314015 payment = order = 4
+ Pass : ADO =  0123312359 payment = order = 4
+ Pass : ADO =  0123312414 payment = order = 3
+ Pass : ADO =  0123313722 payment = order = 4
+ Pass : ADO =  0123315114 payment = order = 4
+ Pass : ADO =  0123385504 payment = order = 1
+ process to ado : 0123386968  Index =  210
+ Pass : ADO =  0123386968 payment = order = 1
+ Pass : ADO =  0123386972 payment = order = 1
+ Pass : ADO =  0123362906 payment = order = 2
+ Pass : ADO =  0123382232 payment = order = 1
+ *******  Error  : ADO = 0123380672 payment Success != number Order  6 : 1
+ Pass : ADO =  0123371953 payment = order = 1
+ Pass : ADO =  0123383587 payment = order = 1
+ Pass : ADO =  0123350570 payment = order = 2
+ Pass : ADO =  0123383792 payment = order = 1
+ *******  Error  : ADO = 0123309929 payment Success != number Order  6 : 4
+ process to ado : 0123337257  Index =  220
+ Pass : ADO =  0123337257 payment = order = 3
+ Pass : ADO =  0123359534 payment = order = 2
+ Pass : ADO =  0123361928 payment = order = 2
+ Pass : ADO =  0123382578 payment = order = 1
+ Pass : ADO =  0123381653 payment = order = 1
+ Pass : ADO =  0123359454 payment = order = 2
+ Pass : ADO =  0123326059 payment = order = 3
+ Pass : ADO =  0123360075 payment = order = 2
+ Pass : ADO =  0123361091 payment = order = 2
+ Pass : ADO =  0123307312 payment = order = 4
+ process to ado : 0123325409  Index =  230
+ Pass : ADO =  0123325409 payment = order = 3
+ Pass : ADO =  0123380697 payment = order = 1
+ Pass : ADO =  0123358256 payment = order = 2
+ Pass : ADO =  0123319862 payment = order = 3
+ Pass : ADO =  0123369951 payment = order = 1
+ Pass : ADO =  0123380541 payment = order = 1
+ Pass : ADO =  0123330290 payment = order = 3
+ Pass : ADO =  0123379748 payment = order = 1
+ Pass : ADO =  0123356118 payment = order = 2
+ Pass : ADO =  0123362323 payment = order = 1
+ process to ado : 0123375761  Index =  240
+ Pass : ADO =  0123375761 payment = order = 1
+ Pass : ADO =  0123376127 payment = order = 1
+ Pass : ADO =  0123376200 payment = order = 1
+ Pass : ADO =  0123375180 payment = order = 1
+ Pass : ADO =  0123345423 payment = order = 2
+ Pass : ADO =  0123377390 payment = order = 1
+ Pass : ADO =  0123375241 payment = order = 1
+ Pass : ADO =  0123375583 payment = order = 1
+ Pass : ADO =  0123364562 payment = order = 1
+ Pass : ADO =  0123324663 payment = order = 3
+ process to ado : 0123376574  Index =  250
+ Pass : ADO =  0123376574 payment = order = 1
+ Pass : ADO =  0123354824 payment = order = 2
+ *******  Error  : ADO = 0123370359 payment Success != number Order  0 : 1
+ Pass : ADO =  0123370651 payment = order = 1
+ Pass : ADO =  0123378139 payment = order = 1
+ Pass : ADO =  0123370944 payment = order = 1
+ Pass : ADO =  0123371233 payment = order = 1
+ Pass : ADO =  0123374839 payment = order = 1
+ Pass : ADO =  0123376347 payment = order = 1
+ Pass : ADO =  0123359648 payment = order = 1
+ process to ado : 0123312358  Index =  260
+ *******  Error  : ADO = 0123312358 payment Success != number Order  4 : 3
+ Pass : ADO =  0123313487 payment = order = 3
+ Pass : ADO =  0123313695 payment = order = 3
+ Pass : ADO =  0123313906 payment = order = 3
+ Pass : ADO =  0123340667 payment = order = 2
+ Pass : ADO =  0123342677 payment = order = 1
+ Pass : ADO =  0123341885 payment = order = 2
+ Pass : ADO =  0123342399 payment = order = 2
+ Pass : ADO =  0123342688 payment = order = 1
+ Pass : ADO =  0123313968 payment = order = 3
+ process to ado : 0123351408  Index =  270
+ 
+ ******************  BEGIN ***************** 
+ success : 221
+ process to ado : 0123351408  Index =  0
+ Pass : ADO =  0123351408 payment = order = 1
+ Pass : ADO =  0123314474 payment = order = 3
+ Pass : ADO =  0123309261 payment = order = 3
+ Pass : ADO =  0123364702 payment = order = 1
+ Pass : ADO =  0123314949 payment = order = 3
+ Pass : ADO =  0123315249 payment = order = 3
+ Pass : ADO =  0123365505 payment = order = 1
+ Pass : ADO =  0123359816 payment = order = 1
+ Pass : ADO =  0123361234 payment = order = 1
+ Pass : ADO =  0123315831 payment = order = 2
+ process to ado : 0123318738  Index =  10
+ Pass : ADO =  0123318738 payment = order = 2
+ Pass : ADO =  0123317387 payment = order = 2
+ Pass : ADO =  0123317677 payment = order = 2
+ Pass : ADO =  0123306394 payment = order = 3
+ Pass : ADO =  0123308824 payment = order = 3
+ Pass : ADO =  0123331267 payment = order = 2
+ Pass : ADO =  0123362486 payment = order = 1
+ Pass : ADO =  0123364704 payment = order = 1
+ Pass : ADO =  0123364929 payment = order = 1
+ Pass : ADO =  0123365773 payment = order = 1
+ process to ado : 0123306164  Index =  20
+ Pass : ADO =  0123306164 payment = order = 3
+ Pass : ADO =  0123306841 payment = order = 3
+ Pass : ADO =  0123358717 payment = order = 1
+ Pass : ADO =  0123308823 payment = order = 3
+ Pass : ADO =  0123313793 payment = order = 3
+ Pass : ADO =  0123315707 payment = order = 3
+ Pass : ADO =  0123364940 payment = order = 1
+ Pass : ADO =  0123365237 payment = order = 1
+ Pass : ADO =  0123366443 payment = order = 1
+ Pass : ADO =  0123325533 payment = order = 2
+ process to ado : 0123327360  Index =  30
+ Pass : ADO =  0123327360 payment = order = 2
+ Pass : ADO =  0123315494 payment = order = 3
+ Pass : ADO =  0123359817 payment = order = 1
+ Pass : ADO =  0123362508 payment = order = 1
+ Pass : ADO =  0123354455 payment = order = 1
+ Pass : ADO =  0123357900 payment = order = 1
+ Pass : ADO =  0123307656 payment = order = 3
+ Pass : ADO =  0123308422 payment = order = 3
+ Pass : ADO =  0123349675 payment = order = 1
+ Pass : ADO =  0123359818 payment = order = 1
+ process to ado : 0123359911  Index =  40
+ Pass : ADO =  0123359911 payment = order = 1
+ Pass : ADO =  0123312101 payment = order = 2
+ Pass : ADO =  0123362475 payment = order = 1
+ Pass : ADO =  0123308421 payment = order = 3
+ Pass : ADO =  0123311966 payment = order = 3
+ Pass : ADO =  0123360086 payment = order = 1
+ Pass : ADO =  0123362272 payment = order = 1
+ Pass : ADO =  0123362294 payment = order = 1
+ Pass : ADO =  0123361990 payment = order = 1
+ Pass : ADO =  0123336261 payment = order = 2
+ process to ado : 0123362990  Index =  50
+ Pass : ADO =  0123362990 payment = order = 1
+ Pass : ADO =  0123327817 payment = order = 2
+ Pass : ADO =  0123307540 payment = order = 3
+ Pass : ADO =  0123352107 payment = order = 1
+ Pass : ADO =  0123325876 payment = order = 2
+ Pass : ADO =  0123306395 payment = order = 3
+ Pass : ADO =  0123306314 payment = order = 3
+ Pass : ADO =  0123330069 payment = order = 2
+ Pass : ADO =  0123357448 payment = order = 1
+ Pass : ADO =  0123357459 payment = order = 1
+ process to ado : 0123358715  Index =  60
+ Pass : ADO =  0123358715 payment = order = 1
+ Pass : ADO =  0123358922 payment = order = 1
+ Pass : ADO =  0123341741 payment = order = 1
+ Pass : ADO =  0123343274 payment = order = 1
+ Pass : ADO =  0123349709 payment = order = 1
+ Pass : ADO =  0123351678 payment = order = 1
+ Pass : ADO =  0123324206 payment = order = 2
+ Pass : ADO =  0123326491 payment = order = 2
+ Pass : ADO =  0123319265 payment = order = 2
+ Pass : ADO =  0123331708 payment = order = 1
+ process to ado : 0123328008  Index =  70
+ Pass : ADO =  0123328008 payment = order = 2
+ Pass : ADO =  0123324522 payment = order = 2
+ Pass : ADO =  0123324896 payment = order = 2
+ Pass : ADO =  0123329517 payment = order = 1
+ *******  Error  : ADO = 0123338691 payment Success != number Order  0 : 1
+ Pass : ADO =  0123312304 payment = order = 2
+ *******  Error  : ADO = 0123325798 payment Success != number Order  0 : 1
+ Pass : ADO =  0123312403 payment = order = 2
+ Pass : ADO =  0123312635 payment = order = 2
+ Pass : ADO =  0123329255 payment = order = 1
+ process to ado : 0123339954  Index =  80
+ Pass : ADO =  0123339954 payment = order = 1
+ *******  Error  : ADO = 0123341408 payment Success != number Order  0 : 1
+ Pass : ADO =  0123336550 payment = order = 1
+ Pass : ADO =  0123339665 payment = order = 1
+ Pass : ADO =  0123341873 payment = order = 1
+ Pass : ADO =  0123314936 payment = order = 2
+ Pass : ADO =  0123315026 payment = order = 2
+ Pass : ADO =  0123315129 payment = order = 2
+ Pass : ADO =  0123315141 payment = order = 2
+ Pass : ADO =  0123339918 payment = order = 1
+ process to ado : 0123340398  Index =  90
+ Pass : ADO =  0123340398 payment = order = 1
+ Pass : ADO =  0123340802 payment = order = 1
+ Pass : ADO =  0123342030 payment = order = 1
+ Pass : ADO =  0123342615 payment = order = 1
+ Pass : ADO =  0123314431 payment = order = 2
+ Pass : ADO =  0123307289 payment = order = 2
+ Pass : ADO =  0123314885 payment = order = 2
+ Pass : ADO =  0123315246 payment = order = 2
+ *******  Error  : ADO = 0123335975 payment Success != number Order  0 : 1
+ Pass : ADO =  0123309565 payment = order = 2
+ process to ado : 0123310003  Index =  100
+ Pass : ADO =  0123310003 payment = order = 2
+ Pass : ADO =  0123318674 payment = order = 1
+ Pass : ADO =  0123325055 payment = order = 1
+ Pass : ADO =  0123336951 payment = order = 1
+ *******  Error  : ADO = 0123338464 payment Success != number Order  0 : 1
+ Pass : ADO =  0123315591 payment = order = 2
+ Pass : ADO =  0123315602 payment = order = 2
+ Pass : ADO =  0123315709 payment = order = 2
+ Pass : ADO =  0123337510 payment = order = 1
+ Pass : ADO =  0123315830 payment = order = 1
+ process to ado : 0123317586  Index =  110
+ *******  Error  : ADO = 0123317586 payment Success != number Order  0 : 1
+ Pass : ADO =  0123313753 payment = order = 2
+ Pass : ADO =  0123314883 payment = order = 2
+ Pass : ADO =  0123306908 payment = order = 2
+ Pass : ADO =  0123308592 payment = order = 2
+ Pass : ADO =  0123335512 payment = order = 1
+ Pass : ADO =  0123311154 payment = order = 1
+ Pass : ADO =  0123327606 payment = order = 1
+ Pass : ADO =  0123309894 payment = order = 2
+ Pass : ADO =  0123310237 payment = order = 2
+ process to ado : 0123311440  Index =  120
+ Pass : ADO =  0123311440 payment = order = 2
+ Pass : ADO =  0123313651 payment = order = 2
+ Pass : ADO =  0123314884 payment = order = 2
+ Pass : ADO =  0123314948 payment = order = 2
+ Pass : ADO =  0123312850 payment = order = 2
+ Pass : ADO =  0123315684 payment = order = 2
+ Pass : ADO =  0123315760 payment = order = 2
+ Pass : ADO =  0123338584 payment = order = 1
+ Pass : ADO =  0123325810 payment = order = 1
+ Pass : ADO =  0123315471 payment = order = 2
+ process to ado : 0123318759  Index =  130
+ Pass : ADO =  0123318759 payment = order = 1
+ Pass : ADO =  0123319091 payment = order = 1
+ Pass : ADO =  0123332156 payment = order = 1
+ Pass : ADO =  0123333236 payment = order = 1
+ Pass : ADO =  0123306608 payment = order = 2
+ Pass : ADO =  0123309379 payment = order = 2
+ Pass : ADO =  0123335857 payment = order = 1
+ Pass : ADO =  0123337149 payment = order = 1
+ Pass : ADO =  0123311451 payment = order = 2
+ Pass : ADO =  0123306631 payment = order = 2
+ process to ado : 0123335892  Index =  140
+ Pass : ADO =  0123335892 payment = order = 1
+ Pass : ADO =  0123336247 payment = order = 1
+ Pass : ADO =  0123337117 payment = order = 1
+ Pass : ADO =  0123306128 payment = order = 2
+ Pass : ADO =  0123309428 payment = order = 2
+ Pass : ADO =  0123330058 payment = order = 1
+ Pass : ADO =  0123311197 payment = order = 2
+ Pass : ADO =  0123308665 payment = order = 2
+ Pass : ADO =  0123333235 payment = order = 1
+ Pass : ADO =  0123333451 payment = order = 1
+ process to ado : 0123336031  Index =  150
+ Pass : ADO =  0123336031 payment = order = 1
+ Pass : ADO =  0123336561 payment = order = 1
+ Pass : ADO =  0123307116 payment = order = 2
+ *******  Error  : ADO = 0123315791 payment Success != number Order  0 : 1
+ Pass : ADO =  0123306829 payment = order = 2
+ Pass : ADO =  0123326596 payment = order = 1
+ Pass : ADO =  0123307288 payment = order = 2
+ Pass : ADO =  0123332083 payment = order = 1
+ Pass : ADO =  0123332977 payment = order = 1
+ *******  Error  : ADO = 0123327819 payment Success != number Order  0 : 1
+ process to ado : 0123325627  Index =  160
+ *******  Error  : ADO = 0123325627 payment Success != number Order  0 : 1
+ Pass : ADO =  0123326575 payment = order = 1
+ Pass : ADO =  0123325471 payment = order = 1
+ Pass : ADO =  0123319949 payment = order = 1
+ Pass : ADO =  0123306632 payment = order = 1
+ *******  Error  : ADO = 0123326513 payment Success != number Order  0 : 1
+ Pass : ADO =  0123326757 payment = order = 1
+ Pass : ADO =  0123312055 payment = order = 1
+ Pass : ADO =  0123327960 payment = order = 1
+ *******  Error  : ADO = 0123319991 payment Success != number Order  0 : 1
+ process to ado : 0123320078  Index =  170
+ *******  Error  : ADO = 0123320078 payment Success != number Order  0 : 1
+ Pass : ADO =  0123312381 payment = order = 1
+ Pass : ADO =  0123315023 payment = order = 1
+ *******  Error  : ADO = 0123315024 payment Success != number Order  0 : 1
+ Pass : ADO =  0123315248 payment = order = 1
+ Pass : ADO =  0123308845 payment = order = 1
+ Pass : ADO =  0123312269 payment = order = 1
+ Pass : ADO =  0123312486 payment = order = 1
+ Pass : ADO =  0123313395 payment = order = 1
+ Pass : ADO =  0123313508 payment = order = 1
+ process to ado : 0123313982  Index =  180
+ *******  Error  : ADO = 0123313982 payment Success != number Order  0 : 1
+ Pass : ADO =  0123306318 payment = order = 1
+ Pass : ADO =  0123312303 payment = order = 1
+ Pass : ADO =  0123314615 payment = order = 1
+ Pass : ADO =  0123315413 payment = order = 1
+ Pass : ADO =  0123315424 payment = order = 1
+ Pass : ADO =  0123315446 payment = order = 1
+ Pass : ADO =  0123315547 payment = order = 1
+ Pass : ADO =  0123315549 payment = order = 1
+ Pass : ADO =  0123306320 payment = order = 1
+ process to ado : 0123309272  Index =  190
+ Pass : ADO =  0123309272 payment = order = 1
+ Pass : ADO =  0123310840 payment = order = 1
+ Pass : ADO =  0123311152 payment = order = 1
+ Pass : ADO =  0123312018 payment = order = 1
+ *******  Error  : ADO = 0123315130 payment Success != number Order  0 : 1
+ Pass : ADO =  0123315673 payment = order = 1
+ Pass : ADO =  0123315814 payment = order = 1
+ Pass : ADO =  0123315815 payment = order = 1
+ Pass : ADO =  0123313844 payment = order = 1
+ Pass : ADO =  0123308677 payment = order = 1
+ process to ado : 0123308729  Index =  200
+ Pass : ADO =  0123308729 payment = order = 1
+ Pass : ADO =  0123312053 payment = order = 1
+ *******  Error  : ADO = 0123312057 payment Success != number Order  0 : 1
+ *******  Error  : ADO = 0123314702 payment Success != number Order  0 : 1
+ Pass : ADO =  0123313981 payment = order = 1
+ *******  Error  : ADO = 0123312347 payment Success != number Order  0 : 1
+ *******  Error  : ADO = 0123314469 payment Success != number Order  0 : 1
+ Pass : ADO =  0123315157 payment = order = 1
+ Pass : ADO =  0123315813 payment = order = 1
+ Pass : ADO =  0123315435 payment = order = 1
+ process to ado : 0123315447  Index =  210
+ Pass : ADO =  0123315447 payment = order = 1
+ Pass : ADO =  0123315548 payment = order = 1
+ Pass : ADO =  0123307115 payment = order = 1
+ *******  Error  : ADO = 0123306854 payment Success != number Order  0 : 1
+ Pass : ADO =  0123309258 payment = order = 1
+ Pass : ADO =  0123309523 payment = order = 1
+ Pass : ADO =  0123311699 payment = order = 1
+ Pass : ADO =  0123306029 payment = order = 1
+ Pass : ADO =  0123307542 payment = order = 1
+ Pass : ADO =  0123306521 payment = order = 1
+ process to ado : 0123306887  Index =  220
+ Pass : ADO =  0123306887 payment = order = 1
+java.lang.ArrayIndexOutOfBoundsException: 221
+	at dongnv.demo.com.TestTransaction.callAPI(TestTransaction.java:43)
+	at dongnv.demo.com.TestTransaction.main(TestTransaction.java:31)
+ 
